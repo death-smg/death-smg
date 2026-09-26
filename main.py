@@ -111,7 +111,7 @@ def gateway_index():
                     "mobile": "10-Digit Mobile Number (Required)",
                     "api_key": "Access Key (Required)"
                 },
-                "example_usage": "/api/v1/lookup?mobile=9006030345&api_key=[YOUR_KEY]"
+                "example_usage": "/api/v1/lookup?mobile=1234567890&api_key=[YOUR_KEY]"
             }
         ]
     }
