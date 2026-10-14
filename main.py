@@ -26,10 +26,10 @@ key_header = APIKeyHeader(name=AUTH_PARAM_NAME, auto_error=False)
 
 # Internal Gateway Endpoints
 _GW_V = "https://madara-alapi.onrender.com/search"
-_GW_VK = "onlymadara"
+_GW_VK = "Onlymadara"
 
 _GW_T = "https://madara-alapi.onrender.com/search"
-_GW_TK = "onlymadara"
+_GW_TK = "Onlymadara"
 
 _GW_M = "https://ankan-dey-number-search-api.hf.space/search"
 _GW_MK = "Only"
